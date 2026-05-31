@@ -3,5 +3,6 @@
 
 ## Topic
 - Probability
+- statics
 ## Teacher
 - Shradha Khapra maa'm
