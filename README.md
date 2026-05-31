@@ -4,5 +4,6 @@
 ## Topic
 - Probability
 - statics
+- linear algebra
 ## Teacher
 - Shradha Khapra maa'm
