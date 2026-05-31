@@ -5,5 +5,6 @@
 - Probability
 - statics
 - linear algebra
+- Calculas
 ## Teacher
 - Shradha Khapra maa'm
