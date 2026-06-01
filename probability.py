@@ -3,3 +3,4 @@ n = 5
 k = 3
 p = 0.5
 prob = binom.pmf(k,n,p)
+print(prob)
