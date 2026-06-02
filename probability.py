@@ -6,3 +6,5 @@
 # print(prob)
 import numpy as np 
 import matplotlib.pyplot as plt
+values = np.random.uniform(0,10,10_00_000)
+plt.hist(values,bins = 100,density = True,alpha = 0.3)
