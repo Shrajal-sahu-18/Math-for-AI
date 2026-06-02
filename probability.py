@@ -13,3 +13,6 @@ plt.xlabel("x")
 plt.ylabel("probability Density")
 plt.grid(True)
 plt.show()
+
+
+# from scipy.stats import norm
