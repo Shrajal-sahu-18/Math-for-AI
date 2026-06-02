@@ -37,3 +37,4 @@ plt.plot(x,y,color = "black",linewidth = 2,label = "normal distribution")
 
 # sigma 68% region (mu =10)
 x1 = np.linspace(mu - sigma,mu + sigma, 1000)
+plt.fill_between(x1,norm.pdf(x1,mu,sigma),color = "green",alpha = 0.3,label = "68% region (1alpha)")
