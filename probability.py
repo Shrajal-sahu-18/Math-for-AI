@@ -16,3 +16,7 @@ plt.show()
 
 
 # from scipy.stats import norm
+
+# parameters
+mu = 70   #mean
+sigma = 10 # Standard deviation
