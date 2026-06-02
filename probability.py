@@ -1,6 +1,8 @@
-from scipy.stats import binom
-n = 5
-k = 3
-p = 0.5
-prob = binom.pmf(k,n,p)
-print(prob)
+# from scipy.stats import binom
+# n = 5
+# k = 3
+# p = 0.5
+# prob = binom.pmf(k,n,p)
+# print(prob)
+import numpy as np 
+import matplotlib.pyplot as plt
