@@ -24,3 +24,8 @@ sigma = 10 # Standard deviation
 
 # X-axis-values
 x = np.linspace(30,110,1000)
+
+
+
+# normal PDF
+y = np.norm.pdf(x,mu,sigma)
