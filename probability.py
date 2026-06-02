@@ -29,3 +29,7 @@ x = np.linspace(30,110,1000)
 
 # normal PDF
 y = np.norm.pdf(x,mu,sigma)
+
+
+#plot the bell curve
+plt.plot(x,y,color = "black",linewidth = 2,label = "normal distribution")
