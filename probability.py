@@ -20,3 +20,7 @@ plt.show()
 # parameters
 mu = 70   #mean
 sigma = 10 # Standard deviation
+
+
+# X-axis-values
+x = np.linspace(30,110,1000)
