@@ -46,3 +46,4 @@ x2 = np.linspace()
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.linspace(0,100,100_000)
+y = np.sqrt(x)
