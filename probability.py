@@ -58,3 +58,4 @@ plt.show()
 
 #sin graph
 x = np.linspace(-2 * np.pi ,2 * np.pi,100)
+y = np.sin(x)
