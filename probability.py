@@ -40,3 +40,8 @@ x1 = np.linspace(mu - sigma,mu + sigma, 1000)
 plt.fill_between(x1,norm.pdf(x1,mu,sigma),color = "green",alpha = 0.3,label = "68% region (1alpha)")
 #shade 95% region (mu = 2 alpha)
 x2 = np.linspace()
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
