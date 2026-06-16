@@ -7,4 +7,4 @@
 - linear algebra
 - Calculas
 ## Teacher
-- Shradha Khapra maa'm
+- Shradha Khapra maa'm(Apna Collage)
